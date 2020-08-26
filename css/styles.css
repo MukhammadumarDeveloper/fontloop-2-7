@@ -199,6 +199,11 @@
     font-weight: 500;
     color: #000;
     text-decoration: none;
+    transition: all .3s ease;
+ }
+
+ .articles-list-link:hover {
+    opacity: .7;
  }
 
  .articles-list-link::before {
