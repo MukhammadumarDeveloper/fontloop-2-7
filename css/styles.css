@@ -139,19 +139,6 @@
     margin: 0;
  }
 
- .years-list-wrapper {
-    position: relative;
- }
-
- .years-shadow {
-    position: absolute;
-    box-shadow: inset -36px 0px 21px -4px rgba(255, 255, 255, 0.9);
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
- }
-
  .years-list {
     display: flex;
     width: 100%;
